@@ -8,16 +8,19 @@
 - Documents
 - Development
 
-### Rest
+### Company
+
 - About
 - Partnerships
 - Community
+- Contact
+- Blog
+
+### Operations
 - Marketing
 - Legal
+- Press
+- Jobs
 - Team
 - Advisors
 - Investors
-- Press
-- Jobs
-- Blog
-- Contact
